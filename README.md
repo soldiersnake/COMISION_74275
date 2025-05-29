@@ -116,8 +116,12 @@ Este curso fue un camino intenso y desafiante. Comenzamos desde lo básico de No
 
 ## 🙌 Agradecimientos
 
-Gracias **Alumnos y Juan Pablo** por su dedicación, curiosidad constante, y por haber sido parte de este proceso.  
+Gracias **Alumnos y Juan Pablo(Tutor)** por su dedicación, curiosidad constante, y por haber sido parte de este proceso.  
 Que este proyecto sea solo el comienzo de muchos más que estén por venir.  
 ¡Nos vemos en el siguiente desafío!
 
 > _“No pares hasta estar orgulloso.”_
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Adios" width="600">
+</div>

@@ -1,4 +1,3 @@
-
 # Curso de Programación Backend con Node.js y MongoDB 🚀
 
 Este repositorio reúne todos los conocimientos, prácticas y proyectos desarrollados durante el curso de **Backend con Node.js** dictado en **Coderhouse**. A lo largo del curso, aprendimos a construir aplicaciones del lado del servidor con Node, Express y MongoDB, aplicando buenas prácticas de desarrollo y organización del código.
@@ -8,46 +7,55 @@ Este repositorio reúne todos los conocimientos, prácticas y proyectos desarrol
 ## 🧠 Contenidos Aprendidos
 
 ### 1. Introducción a Node.js y Express
+
 - Qué es Node.js y cómo funciona su entorno de ejecución
 - Uso de `npm`, creación de proyectos y estructura básica
 - Manejo de rutas con `Express`
 - Middlewares y estructura de carpetas modularizada
 
 ### 2. Servidores HTTP y motores de plantillas
+
 - Servidores con Express
 - Introducción y configuración de **Handlebars**
 - Vistas dinámicas, layouts y parcializados
 
 ### 3. Websockets con Socket.io
+
 - Comunicación en tiempo real
 - Creación de chat o lista de productos en vivo
 - Eventos cliente-servidor con Socket.io
 
 ### 4. Arquitectura de capas
+
 - Organización de proyectos por capas:
   - `routes`, `controllers`, `services`, `models`
 - Patrón MVC y separación de responsabilidades
 
 ### 5. MongoDB y Mongoose
+
 - Introducción a MongoDB y Mongo Compass
 - Uso de `mongoose` para modelado de datos
 - Esquemas, validaciones, relaciones con `populate()`
 
 ### 6. CRUD completo
+
 - Crear, leer, actualizar y eliminar recursos
 - Rutas RESTful para productos y carritos
 - Validaciones de datos y manejo de errores
 
 ### 7. Paginación, filtros y ordenamiento
+
 - Query Params (`limit`, `page`, `sort`, `query`)
 - Librería `mongoose-paginate-v2`
 - Vistas paginadas en Handlebars
 
 ### 8. Agregaciones en MongoDB
+
 - Operadores `$match`, `$group`, `$project`
 - Estadísticas sobre datos
 
 ### 9. Proyecto Final
+
 - CRUD de productos y carritos persistidos en MongoDB
 - Vistas renderizadas con paginación y filtros
 - Endpoints robustos con buenas prácticas
@@ -108,14 +116,8 @@ Este curso fue un camino intenso y desafiante. Comenzamos desde lo básico de No
 
 ## 🙌 Agradecimientos
 
-Gracias **Mariano** por tu dedicación, tu curiosidad constante, y por haber sido parte de este proceso.  
+Gracias **Alumnos y Juan Pablo** por su dedicación, curiosidad constante, y por haber sido parte de este proceso.  
 Que este proyecto sea solo el comienzo de muchos más que estén por venir.  
 ¡Nos vemos en el siguiente desafío!
 
 > _“No pares hasta estar orgulloso.”_
-
----
-
-📬 Cualquier duda, comentario o sugerencia, ¡te leo en GitHub o donde sea!  
-Con cariño,  
-**Alex** – tu copiloto de código ✌️

@@ -1,0 +1,15 @@
+{
+  "name": "entrega2-websocket",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^8.0.1",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.7.2"
+  }
+}
